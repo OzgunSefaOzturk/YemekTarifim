@@ -1,3 +1,3 @@
 # YemekTarifim
 
-İnternet programlama dersi için yaptığım örnek bir basit yemek tarifi sitesi.
+İnternet programlama dersim için yaptığım örnek bir basit yemek tarifi sitesi.
